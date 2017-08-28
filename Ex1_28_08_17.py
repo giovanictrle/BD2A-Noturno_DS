@@ -1,3 +1,8 @@
+"""Diego Alcantara  RA 1700531
+Giovani Carneiro RA 1700709
+Gabriel Alex     RA 1700781  
+Liber Ferraz     RA 1700235"""
+
 def exe_1 ():
     vt = []
     i=0
